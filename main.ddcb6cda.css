@@ -1,0 +1,2 @@
+.clock{position:relative;width:500px;height:500px;margin:20px auto 0;border:1px solid #000;border-radius:50%}.clock__second-hand{top:10px;height:240px;background-color:red;animation:timeCount 60s linear infinite}.clock__minute-hand,.clock__second-hand{position:absolute;left:245px;width:10px;border-radius:5px;transform-origin:50% 100%}.clock__minute-hand{top:100px;height:150px;background-color:#000;animation:timeCount 3600s linear infinite}@keyframes timeCount{0%{transform:rotate(0)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.ddcb6cda.css.map */
